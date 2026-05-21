@@ -6,18 +6,6 @@
       "order": 0
     }
   ],
-  "reduxes": [
-    {
-      "id": "rdx_mpd049t7_rn3prl",
-      "categoryId": "cat_mpczquhf_hnd3kn",
-      "name": "12",
-      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpd049t7_rn3prl/cover.png",
-      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpd049t7_rn3prl/rdx_mpd049t7_rn3prl.zip",
-      "installTarget": "Update",
-      "version": "1",
-      "uploadedAt": "2026-05-19T19:03:55.144Z",
-      "fileSize": 10709085
-    }
-  ],
-  "updatedAt": "2026-05-19T19:03:55.144Z"
+  "reduxes": [],
+  "updatedAt": "2026-05-21T20:05:02.466Z"
 }
