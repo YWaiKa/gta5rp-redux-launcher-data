@@ -21,6 +21,19 @@
       "order": 4
     }
   ],
-  "reduxes": [],
-  "updatedAt": "2026-05-21T20:22:39.162Z"
+  "reduxes": [
+    {
+      "id": "rdx_mpfxvjy0_6vmsrp",
+      "categoryId": "cat_mpfx8qry_kzqzkj",
+      "name": "PINK GUNPACK",
+      "description": "Розовый пак оружий в игрушечном стиле",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpfxvjy0_6vmsrp/cover.jpeg",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpfxvjy0_6vmsrp/rdx_mpfxvjy0_6vmsrp.zip",
+      "installTarget": "update\\x64\\dlcpacks\\patchday18ng\\dlc.rpf",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-21T20:24:37.206Z",
+      "fileSize": 117086078
+    }
+  ],
+  "updatedAt": "2026-05-21T20:24:37.206Z"
 }
