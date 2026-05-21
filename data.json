@@ -26,6 +26,17 @@
       "order": 4
     }
   ],
-  "reduxes": [],
-  "updatedAt": "2026-05-21T20:10:07.515Z"
+  "reduxes": [
+    {
+      "id": "rdx_mpfxrmpg_nv92ih",
+      "categoryId": "cat_mpfx9hs9_dy4pml",
+      "name": "PINK GUNPACK",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpfxrmpg_nv92ih/cover.jpeg",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpfxrmpg_nv92ih/rdx_mpfxrmpg_nv92ih.zip",
+      "installTarget": "update\\x64\\dlcpacks",
+      "uploadedAt": "2026-05-21T20:21:31.962Z",
+      "fileSize": 97605475
+    }
+  ],
+  "updatedAt": "2026-05-21T20:21:31.962Z"
 }
