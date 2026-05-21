@@ -19,8 +19,13 @@
       "id": "cat_mpfxarzv_bekj0c",
       "name": "Misc 🎲",
       "order": 3
+    },
+    {
+      "id": "cat_mpfxd9nf_dvk83b",
+      "name": "Sounds 🔊",
+      "order": 4
     }
   ],
   "reduxes": [],
-  "updatedAt": "2026-05-21T20:08:11.323Z"
+  "updatedAt": "2026-05-21T20:10:07.515Z"
 }
