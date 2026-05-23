@@ -33,7 +33,18 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-21T21:28:30.447Z",
       "fileSize": 117086078
+    },
+    {
+      "id": "rdx_mpipa6z6_3mnbw5",
+      "categoryId": "cat_mpfx9hs9_dy4pml",
+      "name": "BLACK SAKURA",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpipa6z6_3mnbw5/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpipa6z6_3mnbw5/rdx_mpipa6z6_3mnbw5.zip",
+      "installTarget": "update\\x64\\dlcpacks",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-23T18:48:30.080Z",
+      "fileSize": 701954053
     }
   ],
-  "updatedAt": "2026-05-21T21:28:30.447Z"
+  "updatedAt": "2026-05-23T18:48:30.080Z"
 }
