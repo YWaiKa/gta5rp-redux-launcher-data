@@ -66,7 +66,18 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-23T19:43:06.829Z",
       "fileSize": 121774024
+    },
+    {
+      "id": "rdx_mpirb9cq_7cel1u",
+      "categoryId": "cat_mpfx9hs9_dy4pml",
+      "name": "PEACH AHAH",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpirb9cq_7cel1u/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpirb9cq_7cel1u/rdx_mpirb9cq_7cel1u.zip",
+      "installTarget": "update\\x64\\dlcpacks\\patchday18ng",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-23T19:44:12.083Z",
+      "fileSize": 121774024
     }
   ],
-  "updatedAt": "2026-05-23T19:43:06.829Z"
+  "updatedAt": "2026-05-23T19:44:12.083Z"
 }
