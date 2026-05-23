@@ -44,7 +44,18 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-23T18:48:30.080Z",
       "fileSize": 701954053
+    },
+    {
+      "id": "rdx_mpir81r0_c9xd2j",
+      "categoryId": "cat_mpfx9hs9_dy4pml",
+      "name": "JET BLACK",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpir81r0_c9xd2j/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpir81r0_c9xd2j/rdx_mpir81r0_c9xd2j.zip",
+      "installTarget": "update\\x64\\dlcpacks\\patchday18ng",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-23T19:41:31.004Z",
+      "fileSize": 25859985
     }
   ],
-  "updatedAt": "2026-05-23T18:48:30.080Z"
+  "updatedAt": "2026-05-23T19:41:31.004Z"
 }
