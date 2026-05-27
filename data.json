@@ -66,7 +66,18 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-23T19:44:12.083Z",
       "fileSize": 121774024
+    },
+    {
+      "id": "rdx_mpo240fp_y0cmbd",
+      "categoryId": "cat_mpfx9hs9_dy4pml",
+      "name": "CRIMSON SKULL 240",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo240fp_y0cmbd/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo240fp_y0cmbd/rdx_mpo240fp_y0cmbd.zip",
+      "installTarget": "update\\x64\\dlcpacks",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-27T12:46:25.045Z",
+      "fileSize": 673332702
     }
   ],
-  "updatedAt": "2026-05-23T19:47:39.180Z"
+  "updatedAt": "2026-05-27T12:46:25.045Z"
 }
