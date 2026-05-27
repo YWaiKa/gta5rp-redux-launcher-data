@@ -118,7 +118,17 @@
       "installTarget": "update\\x64\\dlcpacks",
       "uploadedAt": "2026-05-27T13:08:58.056Z",
       "fileSize": 819268480
+    },
+    {
+      "id": "rdx_mpo32b9o_mrov7z",
+      "categoryId": "cat_mpfxarzv_bekj0c",
+      "name": "BLUE TREES",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo32b9o_mrov7z/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo32b9o_mrov7z/rdx_mpo32b9o_mrov7z.zip",
+      "installTarget": "update\\x64\\dlcpacks",
+      "uploadedAt": "2026-05-27T13:13:16.177Z",
+      "fileSize": 770603286
     }
   ],
-  "updatedAt": "2026-05-27T13:08:58.056Z"
+  "updatedAt": "2026-05-27T13:13:16.177Z"
 }
