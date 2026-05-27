@@ -88,7 +88,17 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-27T12:47:44.488Z",
       "fileSize": 34757245
+    },
+    {
+      "id": "rdx_mpo2so5i_hx0zev",
+      "categoryId": "cat_mpfxarzv_bekj0c",
+      "name": "DEFAULT TREES",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo2so5i_hx0zev/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo2so5i_hx0zev/rdx_mpo2so5i_hx0zev.zip",
+      "installTarget": "update\\x64\\dlcpacks",
+      "uploadedAt": "2026-05-27T13:04:23.405Z",
+      "fileSize": 45669925
     }
   ],
-  "updatedAt": "2026-05-27T12:47:44.488Z"
+  "updatedAt": "2026-05-27T13:04:23.405Z"
 }
