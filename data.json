@@ -98,7 +98,17 @@
       "installTarget": "update\\x64\\dlcpacks",
       "uploadedAt": "2026-05-27T13:04:23.405Z",
       "fileSize": 45669925
+    },
+    {
+      "id": "rdx_mpo2tvm0_k5iw22",
+      "categoryId": "cat_mpfxarzv_bekj0c",
+      "name": "PINK TREES",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo2tvm0_k5iw22/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo2tvm0_k5iw22/rdx_mpo2tvm0_k5iw22.zip",
+      "installTarget": "update\\x64\\dlcpacks",
+      "uploadedAt": "2026-05-27T13:06:50.806Z",
+      "fileSize": 853128282
     }
   ],
-  "updatedAt": "2026-05-27T13:04:23.405Z"
+  "updatedAt": "2026-05-27T13:06:50.806Z"
 }
