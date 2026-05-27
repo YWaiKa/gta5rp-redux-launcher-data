@@ -77,7 +77,18 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-27T12:46:25.045Z",
       "fileSize": 673332702
+    },
+    {
+      "id": "rdx_mpo27b2y_1sh8su",
+      "categoryId": "cat_mpfx9hs9_dy4pml",
+      "name": "MIRRERY GUNPACK",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo27b2y_1sh8su/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo27b2y_1sh8su/rdx_mpo27b2y_1sh8su.zip",
+      "installTarget": "update\\x64\\dlcpacks",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-27T12:47:44.488Z",
+      "fileSize": 34757245
     }
   ],
-  "updatedAt": "2026-05-27T12:46:25.045Z"
+  "updatedAt": "2026-05-27T12:47:44.488Z"
 }
