@@ -108,7 +108,17 @@
       "installTarget": "update\\x64\\dlcpacks",
       "uploadedAt": "2026-05-27T13:06:50.806Z",
       "fileSize": 853128282
+    },
+    {
+      "id": "rdx_mpo2wlw5_ecyg61",
+      "categoryId": "cat_mpfxarzv_bekj0c",
+      "name": "ORANGE TREES",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo2wlw5_ecyg61/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpo2wlw5_ecyg61/rdx_mpo2wlw5_ecyg61.zip",
+      "installTarget": "update\\x64\\dlcpacks",
+      "uploadedAt": "2026-05-27T13:08:58.056Z",
+      "fileSize": 819268480
     }
   ],
-  "updatedAt": "2026-05-27T13:06:50.806Z"
+  "updatedAt": "2026-05-27T13:08:58.056Z"
 }
