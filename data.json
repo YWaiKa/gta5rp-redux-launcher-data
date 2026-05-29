@@ -162,7 +162,18 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-29T19:10:51.232Z",
       "fileSize": 1418281686
+    },
+    {
+      "id": "rdx_mprbhnmo_4gglzi",
+      "categoryId": "cat_mpfxd9nf_dvk83b",
+      "name": "Click sound + HS Blink",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mprbhnmo_4gglzi/cover.jpg",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mprbhnmo_4gglzi/rdx_mprbhnmo_4gglzi.zip",
+      "installTarget": "x64\\audio\\sfx",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-29T19:31:10.726Z",
+      "fileSize": 111812215
     }
   ],
-  "updatedAt": "2026-05-29T19:29:04.612Z"
+  "updatedAt": "2026-05-29T19:31:10.726Z"
 }
