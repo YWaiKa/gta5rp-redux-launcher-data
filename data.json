@@ -150,7 +150,18 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-29T19:03:40.611Z",
       "fileSize": 1134844624
+    },
+    {
+      "id": "rdx_mpranz7s_i8cypc",
+      "categoryId": "cat_mpfx9zty_e4ka3f",
+      "name": "WHITE REDUX",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpranz7s_i8cypc/cover.jpg",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpranz7s_i8cypc/rdx_mpranz7s_i8cypc.zip",
+      "installTarget": "update",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-29T19:10:51.232Z",
+      "fileSize": 1418281686
     }
   ],
-  "updatedAt": "2026-05-29T19:03:40.611Z"
+  "updatedAt": "2026-05-29T19:10:51.232Z"
 }
