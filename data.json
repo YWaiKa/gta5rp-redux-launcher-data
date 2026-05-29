@@ -139,7 +139,18 @@
       "version": "1.0.0",
       "uploadedAt": "2026-05-29T19:00:17.851Z",
       "fileSize": 111754062
+    },
+    {
+      "id": "rdx_mpraff7m_ac6bp7",
+      "categoryId": "cat_mpfx9zty_e4ka3f",
+      "name": "Blessed Redux",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpraff7m_ac6bp7/cover.png",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpraff7m_ac6bp7/rdx_mpraff7m_ac6bp7.zip",
+      "installTarget": "update",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-29T19:03:40.611Z",
+      "fileSize": 1134844624
     }
   ],
-  "updatedAt": "2026-05-29T19:00:17.851Z"
+  "updatedAt": "2026-05-29T19:03:40.611Z"
 }
