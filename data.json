@@ -128,7 +128,18 @@
       "installTarget": "update\\x64\\dlcpacks",
       "uploadedAt": "2026-05-27T13:13:16.177Z",
       "fileSize": 770603286
+    },
+    {
+      "id": "rdx_mpradxae_n06kw2",
+      "categoryId": "cat_mpfxd9nf_dvk83b",
+      "name": "HeadShot BLINK",
+      "coverUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpradxae_n06kw2/cover.jpg",
+      "downloadUrl": "https://github.com/YWaiKa/gta5rp-redux-launcher-data/releases/download/redux-rdx_mpradxae_n06kw2/rdx_mpradxae_n06kw2.zip",
+      "installTarget": "x64\\audio\\sfx",
+      "version": "1.0.0",
+      "uploadedAt": "2026-05-29T19:00:17.851Z",
+      "fileSize": 111754062
     }
   ],
-  "updatedAt": "2026-05-27T13:13:16.177Z"
+  "updatedAt": "2026-05-29T19:00:17.851Z"
 }
